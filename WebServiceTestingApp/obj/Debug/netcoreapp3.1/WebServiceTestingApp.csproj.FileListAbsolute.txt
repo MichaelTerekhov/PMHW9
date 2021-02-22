@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\WebServiceTestingApp.exe
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\WebServiceTestingApp.deps.json
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\WebServiceTestingApp.runtimeconfig.json
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\WebServiceTestingApp.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\WebServiceTestingApp.dll
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\WebServiceTestingApp.pdb
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.dll
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.pdb
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\obj\Debug\netcoreapp3.1\WebServiceTestingApp.genruntimeconfig.cache
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\primeOptions.json
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\primesLists.json
+C:\Users\Михаил\source\repos\PMHW9\WebServiceTestingApp\bin\Debug\netcoreapp3.1\connectionSettings.json
